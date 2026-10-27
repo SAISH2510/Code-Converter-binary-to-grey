@@ -1,0 +1,19 @@
+# Simulation output files
+
+*.vcd
+*.vvp
+a.out
+converter_sim
+
+# Log files
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.bak
+
+# VS Code workspace settings
+
+.vscode/
